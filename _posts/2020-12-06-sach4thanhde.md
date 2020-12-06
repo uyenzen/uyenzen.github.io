@@ -1,15 +1,17 @@
 ---
 layout: post
-title:  "TỨ THÁNH ĐẾ TỐI THƯỢNG - Con đường dẫn đến chấm dứt khổ"
+title: TỨ THÁNH ĐẾ TỐI THƯỢNG - Con đường dẫn đến chấm dứt khổ
+published: true
 ---
  
  
 
  
-# TỨ THÁNH ĐẾ TỐI THƯỢNG - Con đường dẫn đến chấm dứt khổ.
+## TỨ THÁNH ĐẾ TỐI THƯỢNG - Con đường dẫn đến chấm dứt khổ.
+
 Bởi `Võ Thế Hoà.`
 
-## Giới thiệu
+### Giới thiệu
 Nguồn kinh Phật không có chính xác
 Từ ngữ Phật không có định nghĩa tùy vào từng người dùng cái tưởng mà diễn dịch từ ngữ.
 Nguồn kinh Phật từ tiếng Tàu dịch từ tiếng Sanskrit  không còn bản gốc .
