@@ -3,10 +3,11 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Tứ Thánh Đế Là Tối Thượng
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: 
+Bốn chân lý tối thượng mà các vị đức Phật muốn truyền dạy lại cho  loài người
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -21,12 +22,12 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: uyenzen/uyenzen.github.io
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
