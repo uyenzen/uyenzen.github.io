@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TỨ THÁNH ĐẾ TỐI THƯỢNG - Con đường dẫn đến chấm dứt khổ
+title: "Sách: Bốn Thánh Đế là Tối Thượng"
 published: true
 ---
  
