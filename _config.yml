@@ -3,11 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Tứ Thánh Đế Là Tối Thượng
+name: "Tứ Thánh Đế Là Tối Thượng"
 
 # Short bio or description (displayed in the header)
-description: 
-Bốn chân lý tối thượng mà các vị đức Phật muốn truyền dạy lại cho  loài người
+description: "Bốn chân lý tối thượng mà các vị đức Phật muốn truyền dạy lại cho  loài người"
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
